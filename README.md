@@ -1,1 +1,6 @@
-Descrição do meu primeiro projeto GIT.
+#Instruções
+
+- criei o *repositório local*;
+- criei o *arquivo README.md* e adicionei um pequeno texto ao mesmo. Rodei o *'git add README.md'* para tirá-lo do estágio de untracked files e o deixar pronto para ser 'comitado'. Realizei o comite local através do *'git commit -m "comentário"'*;
+- criei o repositório no GitHub e o associei ao repositório local utilizando o comando *git remote add origin aula-git-projeto-1*
+- fiz um push do arquivo README.md para o repositório online através do comando git push origin master.
